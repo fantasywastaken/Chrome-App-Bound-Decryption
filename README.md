@@ -86,6 +86,12 @@ chrome/
 
 ---
 
+### :rose: Special Thanks
+
+[@runassu](https://github.com/runassu) I added and improved several features to the [project](https://github.com/runassu/chrome_v20_decryption).
+
+---
+
 ### ⚠️ Disclaimer
 
 This project has been developed for educational and security research purposes only. Unauthorized access to any system or data is illegal and strictly prohibited. The developer is not responsible for any misuse of this tool. Only use on systems you own or have explicit permission to test.
