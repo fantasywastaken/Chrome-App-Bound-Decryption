@@ -263,7 +263,7 @@ def main():
                     if not name or not name.strip():
                         continue
                     if isinstance(value, bytes):
-                        decrypted = universal_decrypt_cookie(value, master_key)
+                        decrypted = universal_decrypt(value, master_key)
                         value_str = decrypted if decrypted else "DECRYPT_FAILED"
                     else:
                         value_str = value
